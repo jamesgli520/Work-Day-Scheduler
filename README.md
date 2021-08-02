@@ -7,7 +7,7 @@ This is a simple calendar application that user can enter events and save event 
 
 The calendar has three color #d3d3d3, #ff6961 and #77dd77 that they represent the past, present and future time.<br>
 
-Enter event in the input textarea and click save will save the event.<br>
+Enter event in the input text area and click save that it will save the event.<br>
 
 The event will still there if the page is freshed.<br>
 
@@ -20,7 +20,6 @@ To update the event, overwrite it and click save again.<br>
     <img src="assets\image\event.PNG" /></br></br>
     Event persist after fresh the page
     <img src="assets\image\fresh.PNG" /></br></br>
-    <img src="assets\image\after.PNG" /></br></br
   
 </p>
 
