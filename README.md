@@ -26,9 +26,9 @@ To update the event, overwrite it and click save again.<br>
 
 ## Link to Deployed Application
 
-Live: 
+Live: https://jamesgli520.github.io/Work-Day-Scheduler/
 
-Github repository: 
+Github repository: https://github.com/jamesgli520/Work-Day-Scheduler
 
 ## License & copyright
 
